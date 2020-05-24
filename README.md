@@ -1,4 +1,3 @@
-# Aplicación de Android segundo proyecto ABP
+# Segundo proyecto ABP, OMET Sant Cugat
 
-[![test](https://img.youtube.com/vi/vZKlgjBxxSw/0.jpg)](https://www.youtube.com/watch?v=vZKlgjBxxSw)
-![](imagenes/segundoproyecto.png)
+
